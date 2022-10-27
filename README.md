@@ -1,2 +1,3 @@
 # Causal-SE
-Official Implementation of "Inference and Denoise: Causal Inference-based Neural Speech Enhancement"
+This is the official implementation of "Inference and Denoise: Causal Inference-based Neural Speech Enhancement".
+Code and supplements coming soon.
