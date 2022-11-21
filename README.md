@@ -2,7 +2,7 @@
 This is the official implementation of "Inference and Denoise: Causal Inference-based Neural Speech Enhancement".<br>
 We are updating our code and additional supplementary material and soon.
 
-<img src="https://github.com/aleXiehta/Causal-SE/blob/main/causal-se-systems.PNG" width="500">
+<img src="https://github.com/aleXiehta/Causal-SE/blob/main/causal-se-systems.PNG" width="800">
 
 
 ## Requirements
