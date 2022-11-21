@@ -1,6 +1,9 @@
 # Inference and Denoise: Causal Inference-based Neural Speech Enhancement
 This is the official implementation of "Inference and Denoise: Causal Inference-based Neural Speech Enhancement".<br>
-We will update our code and additional supplementary material very soon.
+We are updating our code and additional supplementary material and soon.
+
+<img src="https://github.com/aleXiehta/Causal-SE/blob/main/causal-se-systems.PNG" width="500">
+
 
 ## Requirements
 * pytorch 1.12.1
