@@ -21,5 +21,22 @@ python main.py \
   --hop_length 320
 ```
   
+## References
+
+```bib
+@article{hsieh2022inference,
+  title={Inference and Denoise: Causal Inference-based Neural Speech Enhancement},
+  author={Hsieh, Tsun-An and Yang, Chao-Han Huck and Chen, Pin-Yu and Siniscalchi, Sabato Marco and Tsao, Yu},
+  journal={arXiv preprint arXiv:2211.01189},
+  year={2022}
+}
+```
+  
 ## Acknowledgments
 * [Bio-ASP Lab](https://bio-asplab.citi.sinica.edu.tw), CITI, Academia Sinica, Taipei, Taiwan
+
+* [Georgia Tech](https://www.ece.gatech.edu/)
+
+* [NTNU / U Kore](https://www.ntnu.edu/employees/marco.siniscalchi)
+
+* [IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Pin-Yu.Chen)
