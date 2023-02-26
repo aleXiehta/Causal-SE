@@ -24,7 +24,7 @@ python main.py \
   --hop_length 320
 ```
   
-## References
+<!---## References
 
 ```bib
 @article{hsieh2022inference,
@@ -42,4 +42,4 @@ python main.py \
 
 * [NTNU / U Kore](https://www.ntnu.edu/employees/marco.siniscalchi)
 
-* [IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Pin-Yu.Chen)
+* [IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Pin-Yu.Chen)--->
